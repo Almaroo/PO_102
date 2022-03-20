@@ -1,0 +1,16 @@
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\bin\Debug\net5.0\PO_102.exe
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\bin\Debug\net5.0\PO_102.deps.json
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\bin\Debug\net5.0\PO_102.runtimeconfig.json
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\bin\Debug\net5.0\PO_102.runtimeconfig.dev.json
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\bin\Debug\net5.0\PO_102.dll
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\bin\Debug\net5.0\ref\PO_102.dll
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\bin\Debug\net5.0\PO_102.pdb
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\obj\Debug\net5.0\PO_102.csproj.AssemblyReference.cache
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\obj\Debug\net5.0\PO_102.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\obj\Debug\net5.0\PO_102.AssemblyInfoInputs.cache
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\obj\Debug\net5.0\PO_102.AssemblyInfo.cs
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\obj\Debug\net5.0\PO_102.csproj.CoreCompileInputs.cache
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\obj\Debug\net5.0\PO_102.dll
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\obj\Debug\net5.0\ref\PO_102.dll
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\obj\Debug\net5.0\PO_102.pdb
+D:\Users\marek.barszcz\source\repos\PO_102\PO_102\obj\Debug\net5.0\PO_102.genruntimeconfig.cache
