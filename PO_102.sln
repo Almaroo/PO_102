@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PO_102_Zadanie1", "PO_102_Z
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PO_102.TestsZadanie1", "PO_102.TestsZadanie1\PO_102.TestsZadanie1.csproj", "{06DA5AC6-F63C-4CB0-AF93-7495259EFEC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PO_102_Zadanie2", "PO_102_Zadanie2\PO_102_Zadanie2.csproj", "{009C85FD-A81B-4E94-AD0F-B7B68CB67B10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PO_102_Zadanie3", "PO_102_Zadanie3\PO_102_Zadanie3.csproj", "{009C85FD-A81B-4E94-AD0F-B7B68CB67B10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PO_102TestsZadanie2", "PO_102TestsZadanie2\PO_102TestsZadanie2.csproj", "{C54DEF97-EF74-4972-8E5B-C5B2EF7ED709}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PO_102TestsZadanie3", "PO_102TestsZadanie3\PO_102TestsZadanie3.csproj", "{C54DEF97-EF74-4972-8E5B-C5B2EF7ED709}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

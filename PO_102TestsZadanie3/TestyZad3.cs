@@ -1,10 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.IO;
-using PO_102_Zadanie2;
+using PO_102_Zadanie3;
 
 
-namespace PO_102.TestsZadanie2
+namespace PO_102_TestsZadanie3
 {
     public class ConsoleRedirectionToStringWriter : IDisposable
     {

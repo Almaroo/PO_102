@@ -1,4 +1,4 @@
-﻿namespace PO_102_Zadanie2;
+﻿namespace PO_102_Zadanie3;
 
 public class MultifunctionalDevice : BaseDevice, ICopier, IFax
 {

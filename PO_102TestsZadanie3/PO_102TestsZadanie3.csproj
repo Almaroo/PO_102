@@ -5,6 +5,8 @@
         <Nullable>enable</Nullable>
 
         <IsPackable>false</IsPackable>
+
+        <RootNamespace>PO_102_TestsZadanie3</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
@@ -15,7 +17,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\PO_102_Zadanie2\PO_102_Zadanie2.csproj" />
+      <ProjectReference Include="..\PO_102_Zadanie3\PO_102_Zadanie3.csproj" />
     </ItemGroup>
 
 </Project>

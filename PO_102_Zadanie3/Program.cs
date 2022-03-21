@@ -1,4 +1,4 @@
-﻿using PO_102_Zadanie2;
+﻿using PO_102_Zadanie3;
 
 var xerox = new Copier(new Scanner(), new Printer());
 xerox.PowerOn();
